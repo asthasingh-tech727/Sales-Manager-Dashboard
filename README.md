@@ -1,6 +1,6 @@
 # Sales-Manager-Dashboard
 1.Project Title:
-"Ineractive Sales Dashboard"
+"Interactive Sales Dashboard"
 
 
 2.Short Description:
