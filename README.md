@@ -1,9 +1,11 @@
 # Sales-Manager-Dashboard
-1.Project Title:
+
+## 1.Project Title:
+
 "Interactive Sales Dashboard"
 
 
-2.Short Description:
+## 2.Short Description:
 
 📊 KPI Metrics
 
@@ -44,7 +46,7 @@ Year filters: 2017, 2018, 2019, 2020 (2018 selected)
 Month-level drill-down available (Jan–Jun 2018 visible)
 
 
-3.Tech Stack:
+## 3.Tech Stack:
 
 a.Year filter (2017–2020) — toggle any combination; KPIs and region charts update live
 
@@ -57,7 +59,7 @@ d.Revenue Trend line chart — updates based on month selection
 e.Top 5 Customers & Products — horizontal bar charts with proportional widths.
 
 
-4.Features/Hightlights:
+## 4.Features/Hightlights:
 
 •revenue & sales: 413.69M with 997K sales quantity across all regions.
 
@@ -69,6 +71,6 @@ e.Top 5 Customers & Products — horizontal bar charts with proportional widths.
 
 • Tool & Filters: Built in Power BI, hosted on GitHub, with interactive year (2017–2020) and month-level filters.
 
-5.Screenshots/Demos:
+## 5.Screenshots/Demos:
 
 https://github.com/asthasingh-tech727/Sales-Manager-Dashboard/blob/main/Interactive-Sales-Dashboard.png
