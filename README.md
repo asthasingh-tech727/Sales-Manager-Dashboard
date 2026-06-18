@@ -70,8 +70,10 @@ e.Top 5 Customers & Products — horizontal bar charts with proportional widths.
 • Top Customer & Product: Electricalsara Stores leads customers at 0.17bn; Prod040 tops products at 0.21bn.
 
 • Tool & Filters: Built in Power BI, hosted on GitHub, with interactive year (2017–2020) and month-level filters.
+## 5.Data Source:
+https://github.com/asthasingh-tech727/Sales-Manager-Dashboard/blob/main/Data-Source-Cleaned-File.sql
 
-## 5.Screenshots/Demos:
+## 6.Screenshots/Demos:
 
 https://github.com/asthasingh-tech727/Sales-Manager-Dashboard/blob/main/image.png
 
