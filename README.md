@@ -73,4 +73,7 @@ e.Top 5 Customers & Products — horizontal bar charts with proportional widths.
 
 ## 5.Screenshots/Demos:
 
-https://github.com/asthasingh-tech727/Sales-Manager-Dashboard/blob/main/Interactive-Sales-Dashboard.png
+https://github.com/asthasingh-tech727/Sales-Manager-Dashboard/blob/main/image.png
+
+<img width="721" height="404" alt="image" src="https://github.com/user-attachments/assets/a084e8f6-5acd-49fd-a03b-2f6f090b0845" />
+
